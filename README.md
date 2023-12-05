@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Sam</h1>
-<h3 align="center">A web developer who always learning and ready to work</h3>
+<h3 align="center">A web developer who is always learning and ready to work</h3>
 
 - 📫 How to reach me **sam.michael.h@gmail.com**
 
