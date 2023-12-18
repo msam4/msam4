@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👨‍💻 All of my projects are available at [https://michaelsam.netlify.app/](https://michaelsam.netlify.app/)
+
 - 📫 How to reach me **sam.michael.h@gmail.com**
 
 - ⚡ Fun fact **Love to eat at restaurants and cafe**
