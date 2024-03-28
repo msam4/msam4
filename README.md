@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **classroom seating chart app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **CS50 Harvard Course**
 
 - 👨‍💻 All of my projects are available at [https://michaelsam.netlify.app/](https://michaelsam.netlify.app/)
 
