@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React** and **CS50 Harvard Course**
 
-- 👨‍💻 All of my projects are available at [https://michaelsam.netlify.app/](https://michaelsam.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://michaelsam.netlify.app/)
 
 - 📫 How to reach me **sam.michael.h@gmail.com**
 
