@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **classroom seating chart app**
 
-- 🌱 I’m currently learning **React** and **CS50 Harvard Course**
+- 🌱 I’m currently learning **CS50 Harvard Course**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://michaelsam.netlify.app/)
 
-- 📫 How to reach me **sam.michael.h@gmail.com**
+- 📫 How to reach me **[email](sam.michael.h@gmail.com)**
 
 - ⚡ Fun fact **Love to eat at restaurants and cafe**
 
